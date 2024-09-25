@@ -6,3 +6,7 @@ Dentro de la app web los usuarios podran:
 -**Generar un histograma** donde podran observar la distribucion de los valores del odometro.
 -**Crear un grafico dedispersion** que le permitira a los usuarios analizar la relacion entre dos variables
 -Ademas a app wen le permitira a los usuarios interactuar a traves de botones y casillas de verificacion para seleccionar cual visualizacion quieren obtener.
+## Enlace al Repositorio de GitHub
+https://github.com/inorja12/proyecto_sprint_6.git
+## Enlace a la aplicación en Render
+https://proyecto-sprint-6-5986.onrender.com

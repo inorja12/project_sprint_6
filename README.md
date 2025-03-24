@@ -1,12 +1,18 @@
-# proyecto_sprint_6
-Este es un proyecto de visualizacion de datos sobre vehiculos.
-Es una aplicacion web (App) que le permite a los usuarios explorar datos sobre vehiculos a traves de visualizaciones interactivas; donde los usuarios pueden ver la informacion por medio de graficas como histogramas o graficas de dispersion, permitiendoles analizar caracteristicas de los vehiculos tales como el odometro.
-# Funcionalidades
-Dentro de la app web los usuarios podran:
--**Generar un histograma** donde podran observar la distribucion de los valores del odometro.
--**Crear un grafico dedispersion** que le permitira a los usuarios analizar la relacion entre dos variables
--Ademas a app wen le permitira a los usuarios interactuar a traves de botones y casillas de verificacion para seleccionar cual visualizacion quieren obtener.
-## Enlace al Repositorio de GitHub
-https://github.com/inorja12/proyecto_sprint_6.git
-## Enlace a la aplicación en Render
-https://proyecto-sprint-6-5986.onrender.com
+🚗 Project Sprint 6
+This is a data visualization project focused on vehicles.
+
+It is a web application that allows users to explore vehicle data through interactive visualizations. Users can view information using charts such as histograms or scatter plots, enabling them to analyze vehicle characteristics like odometer readings.
+
+🚀 Features
+Within the web app, users can:
+
+Generate a histogram to observe the distribution of odometer values.
+
+Create a scatter plot to analyze the relationship between two variables.
+
+Interact with buttons and checkboxes to select the desired visualization.
+
+🔗 Links
+GitHub Repository: Click here
+
+Live App on Render: Click here

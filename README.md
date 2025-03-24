@@ -13,6 +13,10 @@ Create a scatter plot to analyze the relationship between two variables.
 Interact with buttons and checkboxes to select the desired visualization.
 
 🔗 Links
-GitHub Repository: Click here
+GitHub Repository:
 
-Live App on Render: Click here
+https://github.com/inorja12/proyecto_sprint_6.git
+
+Live App on Render:
+
+https://proyecto-sprint-6-5986.onrender.com
